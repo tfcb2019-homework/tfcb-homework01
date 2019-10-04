@@ -1,7 +1,7 @@
 # tfcb-homework01
 Chase's Homework01
 
-#**CHASE'S HOMEWORK**..
+#**CHASE'S HOMEWORK**  
 This repository contains:
 1. [images](https://github.com/ccsuiter/tfcb-homework01/tree/master/images)
 ![image of camponotus](https://github.com/ccsuiter/tfcb-homework01/blob/master/images/casent.%20%20%20-%20%200191696%20Camponotus%20darwinii%20.jpg)
